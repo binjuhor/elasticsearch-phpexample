@@ -1,0 +1,6 @@
+config.php
+*.log
+.txt
+.json
+*/logs
+vendor/

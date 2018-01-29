@@ -1,0 +1,6 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "~5.0",
+        "nesbot/carbon": "^1.22"
+    }
+}
